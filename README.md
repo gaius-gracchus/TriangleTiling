@@ -1,6 +1,6 @@
 # TriangleTiling
 
-![](pentagon.gif)
+<img src="https://github.com/gaius-gracchus/TriangleTiling/blob/master/pentagon.gif" width="200">
 
 Classes and execution scripts for generating logarithmic triangle tilings, based on
 [this paper](https://www.mathartfun.com/FathauerBridges2021v1.pdf).
